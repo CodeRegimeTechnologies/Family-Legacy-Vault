@@ -1,4 +1,4 @@
-# figma-make-app
+# Family-Legacy-Vault
 
 React + Vite + Tailwind CSS project running inside Figma Make.
 
